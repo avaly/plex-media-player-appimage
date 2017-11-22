@@ -5,3 +5,4 @@ appimage/
 *.AppImage
 cache/
 keys/id_rsa
+tmp/
